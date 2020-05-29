@@ -26,7 +26,7 @@ const SingleUser = ({match}) => {
         return(
             <Fragment>
                 <div className="container">
-                    <Link to="/" className="btn btn-light btn-block mb-2">Back to Search</Link>
+                    <a href="/" className="btn btn-light btn-block mb-2">Back to Search</a>
                     <div className="card">
                         <div className="row mx-4">
                             <div className="col col-md-6">
